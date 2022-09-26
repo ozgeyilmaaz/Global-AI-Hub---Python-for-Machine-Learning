@@ -1,1 +1,1 @@
-# Global-AI-Hub - Python-for-Machine-Learning
+# Global AI Hub - Python for Machine Learning
